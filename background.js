@@ -7,5 +7,5 @@ videos.forEach((el) => {
 });
 
 function showClickbaitInfo(element) {
-    alert("i seek death");
+    alert("i seek life");
 }
