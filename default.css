@@ -1,0 +1,12 @@
+.clickbait-span {
+    background-color: red;
+    color: white;
+    border-radius: 3px;
+    font-size: 1.4em;
+    font: small-caption;
+    padding: 1px 10px 2px 10px;
+    opacity: 0.8;
+    position: relative;
+    top: -200px;
+    left: 5px;
+}
